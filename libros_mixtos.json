@@ -1,0 +1,802 @@
+[
+  {
+    "isbn": "1000000001",
+    "title": "Pedro Páramo 5",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Anagrama",
+    "year": "1919",
+    "available": true
+  },
+  {
+    "isbn": "1000000002",
+    "title": "La casa de los espíritus 4",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Losada",
+    "year": "1916",
+    "available": true
+  },
+  {
+    "isbn": "1000000003",
+    "title": "Pedro Páramo 10",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Sudamericana",
+    "year": "1976",
+    "available": false
+  },
+  {
+    "isbn": "1000000004",
+    "title": "Crónica de una muerte anunciada 4",
+    "author": "Julio Cortázar",
+    "editorial": "Francisco de Robles",
+    "year": "1938",
+    "available": true
+  },
+  {
+    "isbn": "1000000005",
+    "title": "Ficciones 5",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Sur",
+    "year": "2019",
+    "available": true
+  },
+  {
+    "isbn": "1000000006",
+    "title": "Rayuela 3",
+    "author": "Juan Rulfo",
+    "editorial": "Francisco de Robles",
+    "year": "1904",
+    "available": true
+  },
+  {
+    "isbn": "1000000007",
+    "title": "Don Quijote de la Mancha 2",
+    "author": "Miguel de Cervantes",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1912",
+    "available": true
+  },
+  {
+    "isbn": "1000000008",
+    "title": "Como agua para chocolate 6",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Oveja Negra",
+    "year": "1959",
+    "available": false
+  },
+  {
+    "isbn": "1000000009",
+    "title": "El amor en los tiempos del cólera 2",
+    "author": "Miguel de Cervantes",
+    "editorial": "Sur",
+    "year": "1940",
+    "available": false
+  },
+  {
+    "isbn": "1000000010",
+    "title": "Los detectives salvajes 6",
+    "author": "Jorge Luis Borges",
+    "editorial": "Sur",
+    "year": "1965",
+    "available": false
+  },
+  {
+    "isbn": "1000000011",
+    "title": "Los detectives salvajes 8",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Sur",
+    "year": "1917",
+    "available": false
+  },
+  {
+    "isbn": "1000000012",
+    "title": "Ficciones 8",
+    "author": "Jorge Luis Borges",
+    "editorial": "Sur",
+    "year": "1955",
+    "available": true
+  },
+  {
+    "isbn": "1000000013",
+    "title": "Pedro Páramo 10",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Sudamericana",
+    "year": "2011",
+    "available": true
+  },
+  {
+    "isbn": "1000000014",
+    "title": "La fiesta del chivo 4",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Planeta",
+    "year": "1960",
+    "available": true
+  },
+  {
+    "isbn": "1000000015",
+    "title": "Ficciones 8",
+    "author": "Jorge Luis Borges",
+    "editorial": "Editorial Anagrama",
+    "year": "1925",
+    "available": true
+  },
+  {
+    "isbn": "1000000016",
+    "title": "Ficciones 7",
+    "author": "Gabriel García Márquez",
+    "editorial": "Francisco de Robles",
+    "year": "1965",
+    "available": true
+  },
+  {
+    "isbn": "1000000017",
+    "title": "El amor en los tiempos del cólera 2",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Sudamericana",
+    "year": "1935",
+    "available": true
+  },
+  {
+    "isbn": "1000000018",
+    "title": "Santa Evita 10",
+    "author": "Juan Rulfo",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1994",
+    "available": false
+  },
+  {
+    "isbn": "1000000019",
+    "title": "El túnel 1",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Losada",
+    "year": "1992",
+    "available": false
+  },
+  {
+    "isbn": "1000000020",
+    "title": "El Aleph 1",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Losada",
+    "year": "1932",
+    "available": true
+  },
+  {
+    "isbn": "1000000021",
+    "title": "La región más transparente 4",
+    "author": "Ernesto Sabato",
+    "editorial": "Editorial Losada",
+    "year": "1925",
+    "available": false
+  },
+  {
+    "isbn": "1000000022",
+    "title": "Pedro Páramo 10",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Anagrama",
+    "year": "1901",
+    "available": false
+  },
+  {
+    "isbn": "1000000023",
+    "title": "La casa de los espíritus 6",
+    "author": "Julio Cortázar",
+    "editorial": "Editorial Losada",
+    "year": "1952",
+    "available": true
+  },
+  {
+    "isbn": "1000000024",
+    "title": "Como agua para chocolate 9",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Sur",
+    "year": "1977",
+    "available": false
+  },
+  {
+    "isbn": "1000000025",
+    "title": "Crónica de una muerte anunciada 3",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Sudamericana",
+    "year": "1922",
+    "available": false
+  },
+  {
+    "isbn": "1000000026",
+    "title": "Aura 3",
+    "author": "Ernesto Sabato",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "2000",
+    "available": false
+  },
+  {
+    "isbn": "1000000027",
+    "title": "El amor en los tiempos del cólera 8",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Sur",
+    "year": "1972",
+    "available": false
+  },
+  {
+    "isbn": "1000000028",
+    "title": "El amor en los tiempos del cólera 7",
+    "author": "Julio Cortázar",
+    "editorial": "Editorial Losada",
+    "year": "1966",
+    "available": false
+  },
+  {
+    "isbn": "1000000029",
+    "title": "Don Quijote de la Mancha 2",
+    "author": "Julio Cortázar",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1904",
+    "available": false
+  },
+  {
+    "isbn": "1000000030",
+    "title": "Pedro Páramo 9",
+    "author": "Miguel de Cervantes",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1933",
+    "available": false
+  },
+  {
+    "isbn": "1000000031",
+    "title": "Sobre héroes y tumbas 2",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Sur",
+    "year": "2011",
+    "available": true
+  },
+  {
+    "isbn": "1000000032",
+    "title": "Crónica de una muerte anunciada 5",
+    "author": "Jorge Luis Borges",
+    "editorial": "Francisco de Robles",
+    "year": "1903",
+    "available": true
+  },
+  {
+    "isbn": "1000000033",
+    "title": "La fiesta del chivo 1",
+    "author": "Roberto Bolaño",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1963",
+    "available": true
+  },
+  {
+    "isbn": "1000000034",
+    "title": "Cien años de soledad 3",
+    "author": "Miguel de Cervantes",
+    "editorial": "Oveja Negra",
+    "year": "1954",
+    "available": true
+  },
+  {
+    "isbn": "1000000035",
+    "title": "El amor en los tiempos del cólera 8",
+    "author": "Ernesto Sabato",
+    "editorial": "Editorial Sudamericana",
+    "year": "1984",
+    "available": true
+  },
+  {
+    "isbn": "1000000036",
+    "title": "La fiesta del chivo 2",
+    "author": "Ernesto Sabato",
+    "editorial": "Francisco de Robles",
+    "year": "1904",
+    "available": false
+  },
+  {
+    "isbn": "1000000037",
+    "title": "Santa Evita 1",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Anagrama",
+    "year": "1925",
+    "available": true
+  },
+  {
+    "isbn": "1000000038",
+    "title": "El túnel 3",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Sudamericana",
+    "year": "1963",
+    "available": false
+  },
+  {
+    "isbn": "1000000039",
+    "title": "Crónica de una muerte anunciada 7",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Anagrama",
+    "year": "2019",
+    "available": true
+  },
+  {
+    "isbn": "1000000040",
+    "title": "Los detectives salvajes 5",
+    "author": "Julio Cortázar",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1903",
+    "available": true
+  },
+  {
+    "isbn": "1000000041",
+    "title": "La fiesta del chivo 1",
+    "author": "Julio Cortázar",
+    "editorial": "Francisco de Robles",
+    "year": "1935",
+    "available": false
+  },
+  {
+    "isbn": "1000000042",
+    "title": "La región más transparente 6",
+    "author": "Ernesto Sabato",
+    "editorial": "Editorial Sudamericana",
+    "year": "1922",
+    "available": true
+  },
+  {
+    "isbn": "1000000043",
+    "title": "La fiesta del chivo 5",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Losada",
+    "year": "1949",
+    "available": false
+  },
+  {
+    "isbn": "1000000044",
+    "title": "La ciudad y los perros 8",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Sur",
+    "year": "1901",
+    "available": true
+  },
+  {
+    "isbn": "1000000045",
+    "title": "Crónica de una muerte anunciada 5",
+    "author": "Miguel de Cervantes",
+    "editorial": "Oveja Negra",
+    "year": "1905",
+    "available": false
+  },
+  {
+    "isbn": "1000000046",
+    "title": "Don Quijote de la Mancha 5",
+    "author": "Julio Cortázar",
+    "editorial": "Editorial Losada",
+    "year": "1974",
+    "available": false
+  },
+  {
+    "isbn": "1000000047",
+    "title": "La región más transparente 5",
+    "author": "Gabriel García Márquez",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1914",
+    "available": false
+  },
+  {
+    "isbn": "1000000048",
+    "title": "Cien años de soledad 4",
+    "author": "Ernesto Sabato",
+    "editorial": "Oveja Negra",
+    "year": "1933",
+    "available": true
+  },
+  {
+    "isbn": "1000000049",
+    "title": "Como agua para chocolate 9",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Anagrama",
+    "year": "1975",
+    "available": true
+  },
+  {
+    "isbn": "1000000050",
+    "title": "Pedro Páramo 4",
+    "author": "Roberto Bolaño",
+    "editorial": "Planeta",
+    "year": "1936",
+    "available": false
+  },
+  {
+    "isbn": "1000000051",
+    "title": "La fiesta del chivo 1",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Anagrama",
+    "year": "1999",
+    "available": true
+  },
+  {
+    "isbn": "1000000052",
+    "title": "Cien años de soledad 4",
+    "author": "Miguel de Cervantes",
+    "editorial": "Oveja Negra",
+    "year": "2013",
+    "available": true
+  },
+  {
+    "isbn": "1000000053",
+    "title": "La fiesta del chivo 5",
+    "author": "Ernesto Sabato",
+    "editorial": "Oveja Negra",
+    "year": "1975",
+    "available": false
+  },
+  {
+    "isbn": "1000000054",
+    "title": "Don Quijote de la Mancha 8",
+    "author": "Carlos Fuentes",
+    "editorial": "Sur",
+    "year": "1906",
+    "available": true
+  },
+  {
+    "isbn": "1000000055",
+    "title": "La ciudad y los perros 2",
+    "author": "Juan Rulfo",
+    "editorial": "Francisco de Robles",
+    "year": "1903",
+    "available": false
+  },
+  {
+    "isbn": "1000000056",
+    "title": "La fiesta del chivo 4",
+    "author": "Miguel de Cervantes",
+    "editorial": "Oveja Negra",
+    "year": "1985",
+    "available": false
+  },
+  {
+    "isbn": "1000000057",
+    "title": "Don Quijote de la Mancha 2",
+    "author": "Roberto Bolaño",
+    "editorial": "Planeta",
+    "year": "1925",
+    "available": false
+  },
+  {
+    "isbn": "1000000058",
+    "title": "Santa Evita 9",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Sudamericana",
+    "year": "1970",
+    "available": true
+  },
+  {
+    "isbn": "1000000059",
+    "title": "La fiesta del chivo 6",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Sudamericana",
+    "year": "1905",
+    "available": true
+  },
+  {
+    "isbn": "1000000060",
+    "title": "Crónica de una muerte anunciada 2",
+    "author": "Roberto Bolaño",
+    "editorial": "Planeta",
+    "year": "1920",
+    "available": true
+  },
+  {
+    "isbn": "1000000061",
+    "title": "Rayuela 6",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Anagrama",
+    "year": "1974",
+    "available": false
+  },
+  {
+    "isbn": "1000000062",
+    "title": "Aura 3",
+    "author": "Gabriel García Márquez",
+    "editorial": "Oveja Negra",
+    "year": "1992",
+    "available": true
+  },
+  {
+    "isbn": "1000000063",
+    "title": "Pedro Páramo 1",
+    "author": "Juan Rulfo",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1985",
+    "available": true
+  },
+  {
+    "isbn": "1000000064",
+    "title": "Don Quijote de la Mancha 4",
+    "author": "Julio Cortázar",
+    "editorial": "Oveja Negra",
+    "year": "1990",
+    "available": false
+  },
+  {
+    "isbn": "1000000065",
+    "title": "Don Quijote de la Mancha 6",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Losada",
+    "year": "1944",
+    "available": true
+  },
+  {
+    "isbn": "1000000066",
+    "title": "Los detectives salvajes 2",
+    "author": "Jorge Luis Borges",
+    "editorial": "Planeta",
+    "year": "1908",
+    "available": true
+  },
+  {
+    "isbn": "1000000067",
+    "title": "La casa de los espíritus 8",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Anagrama",
+    "year": "1928",
+    "available": false
+  },
+  {
+    "isbn": "1000000068",
+    "title": "Los detectives salvajes 5",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Sudamericana",
+    "year": "1901",
+    "available": true
+  },
+  {
+    "isbn": "1000000069",
+    "title": "Noticias del imperio 7",
+    "author": "Julio Cortázar",
+    "editorial": "Oveja Negra",
+    "year": "1941",
+    "available": false
+  },
+  {
+    "isbn": "1000000070",
+    "title": "Como agua para chocolate 3",
+    "author": "Ernesto Sabato",
+    "editorial": "Francisco de Robles",
+    "year": "2015",
+    "available": false
+  },
+  {
+    "isbn": "1000000071",
+    "title": "Pedro Páramo 3",
+    "author": "Ernesto Sabato",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1973",
+    "available": true
+  },
+  {
+    "isbn": "1000000072",
+    "title": "Cien años de soledad 7",
+    "author": "Jorge Luis Borges",
+    "editorial": "Editorial Sur",
+    "year": "1971",
+    "available": true
+  },
+  {
+    "isbn": "1000000073",
+    "title": "Crónica de una muerte anunciada 4",
+    "author": "Miguel de Cervantes",
+    "editorial": "Editorial Sur",
+    "year": "1992",
+    "available": false
+  },
+  {
+    "isbn": "1000000074",
+    "title": "La fiesta del chivo 1",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Sudamericana",
+    "year": "1960",
+    "available": false
+  },
+  {
+    "isbn": "1000000075",
+    "title": "Crónica de una muerte anunciada 8",
+    "author": "Ernesto Sabato",
+    "editorial": "Editorial Sur",
+    "year": "1902",
+    "available": false
+  },
+  {
+    "isbn": "1000000076",
+    "title": "Ficciones 9",
+    "author": "Juan Rulfo",
+    "editorial": "Editorial Sudamericana",
+    "year": "1963",
+    "available": true
+  },
+  {
+    "isbn": "1000000077",
+    "title": "La casa de los espíritus 4",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Sur",
+    "year": "1938",
+    "available": true
+  },
+  {
+    "isbn": "1000000078",
+    "title": "La ciudad y los perros 1",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Anagrama",
+    "year": "1997",
+    "available": false
+  },
+  {
+    "isbn": "1000000079",
+    "title": "Crónica de una muerte anunciada 3",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Sur",
+    "year": "1977",
+    "available": false
+  },
+  {
+    "isbn": "1000000080",
+    "title": "Los detectives salvajes 1",
+    "author": "Roberto Bolaño",
+    "editorial": "Francisco de Robles",
+    "year": "1913",
+    "available": false
+  },
+  {
+    "isbn": "1000000081",
+    "title": "La sombra del viento 9",
+    "author": "Carlos Fuentes",
+    "editorial": "Francisco de Robles",
+    "year": "1977",
+    "available": true
+  },
+  {
+    "isbn": "1000000082",
+    "title": "La ciudad y los perros 2",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Losada",
+    "year": "2023",
+    "available": true
+  },
+  {
+    "isbn": "1000000083",
+    "title": "Cien años de soledad 2",
+    "author": "Juan Rulfo",
+    "editorial": "Sur",
+    "year": "1922",
+    "available": false
+  },
+  {
+    "isbn": "1000000084",
+    "title": "Sobre héroes y tumbas 10",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Anagrama",
+    "year": "1996",
+    "available": false
+  },
+  {
+    "isbn": "1000000085",
+    "title": "Pedro Páramo 4",
+    "author": "Miguel de Cervantes",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1954",
+    "available": false
+  },
+  {
+    "isbn": "1000000086",
+    "title": "Cien años de soledad 5",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Anagrama",
+    "year": "1920",
+    "available": true
+  },
+  {
+    "isbn": "1000000087",
+    "title": "Santa Evita 4",
+    "author": "Ernesto Sabato",
+    "editorial": "Sur",
+    "year": "1973",
+    "available": true
+  },
+  {
+    "isbn": "1000000088",
+    "title": "Los detectives salvajes 7",
+    "author": "Gabriel García Márquez",
+    "editorial": "Sur",
+    "year": "1970",
+    "available": true
+  },
+  {
+    "isbn": "1000000089",
+    "title": "El Aleph 3",
+    "author": "Carlos Fuentes",
+    "editorial": "Editorial Anagrama",
+    "year": "1904",
+    "available": true
+  },
+  {
+    "isbn": "1000000090",
+    "title": "La fiesta del chivo 9",
+    "author": "Roberto Bolaño",
+    "editorial": "Sur",
+    "year": "1974",
+    "available": false
+  },
+  {
+    "isbn": "1000000091",
+    "title": "El amor en los tiempos del cólera 7",
+    "author": "Roberto Bolaño",
+    "editorial": "Editorial Sudamericana",
+    "year": "1958",
+    "available": true
+  },
+  {
+    "isbn": "1000000092",
+    "title": "La casa de los espíritus 5",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Editorial Losada",
+    "year": "1939",
+    "available": false
+  },
+  {
+    "isbn": "1000000093",
+    "title": "El túnel 9",
+    "author": "Miguel de Cervantes",
+    "editorial": "Oveja Negra",
+    "year": "1978",
+    "available": true
+  },
+  {
+    "isbn": "1000000094",
+    "title": "El Aleph 9",
+    "author": "Roberto Bolaño",
+    "editorial": "Francisco de Robles",
+    "year": "2012",
+    "available": false
+  },
+  {
+    "isbn": "1000000095",
+    "title": "Sobre héroes y tumbas 6",
+    "author": "Gabriel García Márquez",
+    "editorial": "Editorial Anagrama",
+    "year": "1931",
+    "available": true
+  },
+  {
+    "isbn": "1000000096",
+    "title": "La sombra del viento 4",
+    "author": "Jorge Luis Borges",
+    "editorial": "Francisco de Robles",
+    "year": "1909",
+    "available": true
+  },
+  {
+    "isbn": "1000000097",
+    "title": "Crónica de una muerte anunciada 6",
+    "author": "Carlos Ruiz Zafón",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1920",
+    "available": true
+  },
+  {
+    "isbn": "1000000098",
+    "title": "Don Quijote de la Mancha 1",
+    "author": "Gabriel García Márquez",
+    "editorial": "Fondo de Cultura Económica",
+    "year": "1929",
+    "available": false
+  },
+  {
+    "isbn": "1000000099",
+    "title": "Como agua para chocolate 7",
+    "author": "Ernesto Sabato",
+    "editorial": "Oveja Negra",
+    "year": "1934",
+    "available": true
+  },
+  {
+    "isbn": "1000000100",
+    "title": "Rayuela 8",
+    "author": "Gabriel García Márquez",
+    "editorial": "Planeta",
+    "year": "1933",
+    "available": false
+  }
+]
